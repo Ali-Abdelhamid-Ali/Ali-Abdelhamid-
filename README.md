@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Gen Ai with DEPI**
 
-- 👨‍💻 All of my projects are available at [https://ali-abdelhamid-portfolio.netlify.app/](https://ali-abdelhamid-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ali-abdelhamid-portfolio.netlify.app/](<a href="https://ali-abdelhamid-portfolio.netlify.app/">Click here</a>)
 
 - 📫 How to reach me **alyyaser242004@gmail.com**
 
