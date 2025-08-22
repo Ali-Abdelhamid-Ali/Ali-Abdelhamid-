@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Abdelhamid</h1>
-<h3 align="center">🚀 Artificial Intelligence Engineer</h3>
+<h1 align="center">Hi, I'm Ali Abdelhamid</h1>
+<h3 align="center"> Artificial Intelligence Engineer</h3>
 
 ---
 
