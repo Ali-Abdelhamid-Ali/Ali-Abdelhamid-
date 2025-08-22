@@ -3,14 +3,14 @@
 
 ---
 
-- 🌱 I’m currently learning **Generative AI with DEPI**
-- 👨‍💻 All of my projects are available at 👉 <a href="https://ali-abdelhamid-portfolio.netlify.app/" target="_blank">Portfolio</a>
-- 📫 Reach me at **alyyaser242004@gmail.com**
-- 📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1BD_O0d2gpY4gf5M9dECW6-gNOEVprnih/view?usp=drive_link" target="_blank">My Resume</a>
+-  I’m currently learning **Generative AI with DEPI**
+-  All of my projects are available at  <a href="https://ali-abdelhamid-portfolio.netlify.app/" target="_blank">Portfolio</a>
+-  Reach me at **alyyaser242004@gmail.com**
+-  Know about my experiences  <a href="https://drive.google.com/file/d/1BD_O0d2gpY4gf5M9dECW6-gNOEVprnih/view?usp=drive_link" target="_blank">My Resume</a>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ali-abdelhamid-ali" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Abdelhamid" height="30" width="40"/>
