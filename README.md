@@ -17,10 +17,6 @@
   </a>
   <a href="https://kaggle.com/ali-abdelhamid-ali" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ali Abdelhamid" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/Ali-Abdelhamid-Ali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ali Abdelhamid GitHub" height="30" width="40"/>
-  </a>
 </p>
 
 ---
